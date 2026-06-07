@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+.kotlin/
+build/
+!gradle-wrapper.jar
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Local config
+local.properties
+
+# OS
+.DS_Store
+
+# Signing
+*.jks
+*.keystore
+
+# Build artifacts
+*.apk
+*.aab
+
+# temporary clone of claude skill
+/material-3-skill/

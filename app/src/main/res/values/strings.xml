@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Instachat</string>
+    <string name="login_title">Sign in to Instagram</string>
+    <string name="login_hint">Log in to see your DMs.</string>
+    <string name="inbox_empty">No chats yet.</string>
+    <string name="inbox_loading">Loading…</string>
+    <string name="thread_input_hint">Message</string>
+    <string name="thread_send">Send</string>
+    <string name="thread_title_fallback">Chat</string>
+    <string name="reaction_sheet_title">React</string>
+    <string name="media_unsupported">[unsupported type: %1$s]</string>
+    <string name="media_voice_duration">Voice · %1$ds</string>
+    <string name="media_empty">No media to show</string>
+    <string name="media_play">Play</string>
+    <string name="media_pause">Pause</string>
+    <string name="media_replay">Watch again</string>
+    <string name="media_ephemeral_tap">Tap to view once</string>
+    <string name="media_story_share">Shared story</string>
+    <string name="raw_item_open_browser">Open in browser</string>
+    <string name="raw_item_close">Close</string>
+    <string name="raw_item_copy">Copy JSON</string>
+    <string name="raw_item_empty">No data</string>
+</resources>

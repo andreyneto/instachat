@@ -1,0 +1,20 @@
+root = true
+
+[*.{kt,kts}]
+ktlint_code_style = intellij_idea
+# Jetpack Compose @Composable functions are intentionally PascalCase.
+ktlint_function_naming_ignore_when_annotated_with = Composable
+# Compose token/spec vals (Motion, Shapes) read better in PascalCase.
+ktlint_standard_property-naming = disabled
+charset = utf-8
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+max_line_length = 120
+trim_trailing_whitespace = true
+
+[*.{xml,json}]
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
